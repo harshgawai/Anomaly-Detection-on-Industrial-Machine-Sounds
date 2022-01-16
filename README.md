@@ -1,2 +1,2 @@
 # Anomaly-Detection-on-Industrial-Machine-Sounds
-Data can be found here: https://1drv.ms/u/s!AvROzJB1YfY-gv9tjh4WohVZQDhX1g?e=qgwxR9
+Data can be found here: https://drive.google.com/drive/folders/1stWEyRn_Mc0zttPrAzdj7nRDBP7SsaT7?usp=sharing
